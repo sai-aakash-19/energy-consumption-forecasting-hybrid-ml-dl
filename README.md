@@ -582,7 +582,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact & Support
 
-📧 **Email:** sai.aakash.19@gmail.com  
+📧 **Email:** koppuravurisaiaakash@gmail.com  
 🔗 **GitHub:** [sai-aakash-19](https://github.com/sai-aakash-19)  
 📊 **Project:** [Energy Consumption Forecasting](https://github.com/sai-aakash-19/energy-consumption-forecasting-hybrid-ml-dl)
 
